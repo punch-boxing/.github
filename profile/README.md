@@ -1,3 +1,5 @@
+![cover image](../cover.png)
+
 ## PUNCH!
 
 A new approach of boxing in modern times.
